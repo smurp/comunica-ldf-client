@@ -1,3 +1,20 @@
+
+# THIS IS JUST AN EXPERIMENT .....
+
+Hello.  This repo is motivated by the wish to have a pragmatic way to make use
+of [dist/ldf-client-worker.min.js](dist/ldf-client-worker.min.js) as a worker callable by http://github.com/smurp/huviz/ .
+
+Insights into how to refactor the build process to make this more elegant are invited!
+
+I ran `yarn run start` and then found and saved the `ldf-client-worker.min.js` using wget.
+Of course, better would be using WebPack to emit this file to disk, but I just needed it done
+for this experiment.
+
+
+... back to your regularly scheduled README
+
+-----
+
 # Comunica SPARQL jQuery Widget
 [<img src="http://linkeddatafragments.org/images/logo.svg" width="200" align="right" alt="" />](http://linkeddatafragments.org/)
 
