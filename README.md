@@ -11,7 +11,7 @@ Of course, better would be using WebPack to emit this file to disk, but I just n
 for this experiment.
 
 
-... back to your regularly scheduled README
+_Now back to your regularly scheduled README ..._
 
 -----
 
