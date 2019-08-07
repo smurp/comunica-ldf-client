@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/smurp/comunica-ldf-client"
+    "url": "git+https://github.com/smurp/comunica-ldf-client.git"
   },
   "scripts": {
     "lint": "eslint src/*.js",
