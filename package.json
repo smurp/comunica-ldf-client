@@ -13,14 +13,12 @@
     "build": "npm run prepare && webpack-dev-server --config webpack.config.js --mode development",
     "production": "npm run prepare && webpack --config webpack.config.js --mode production"
   },
-  "dependencies": {
+  "devDependencies": {
     "@comunica/actor-init-sparql": "1.7.4",
     "@comunica/runner": "^1.6.0",
     "n3": "^0.11.3",
     "rdf-string": "^1.1.1",
-    "yasgui-yasqe": "^2.11.22"
-  },
-  "devDependencies": {
+    "yasgui-yasqe": "^2.11.22",
     "@babel/core": "^7.1.2",
     "@babel/plugin-syntax-object-rest-spread": "^7.0.0",
     "@babel/plugin-transform-async-to-generator": "^7.0.0",
